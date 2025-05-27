@@ -1,0 +1,148 @@
+{
+  "@@locale": "en",
+  "appTitle": "Quiz App",
+  "startQuiz": "Start Quiz",
+  "highScores": "High Scores",
+  "about": "About",
+  "settings": "Settings",
+  "selectCategory": "Select Category",
+  "selectDifficulty": "Select Difficulty",
+  "numberOfQuestions": "Number of Questions",
+  "darkMode": "Dark Mode",
+  "soundEffects": "Sound Effects",
+  "vibration": "Vibration",
+  "language": "Language",
+  "easy": "Easy",
+  "medium": "Medium",
+  "hard": "Hard",
+  "correct": "Correct!",
+  "incorrect": "Incorrect!",
+  "next": "Next",
+  "finish": "Finish",
+  "score": "Score: {score}",
+  "@score": {
+    "placeholders": {
+      "score": {
+        "type": "String"
+      }
+    }
+  },
+  "quizComplete": "Quiz Complete!",
+  "totalScore": "Total Score: {score}/{total}",
+  "@totalScore": {
+    "placeholders": {
+      "score": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "backToHome": "Back to Home",
+  "aboutText": "This quiz app uses the Open Trivia Database API to provide a fun and educational experience.",
+  "loading": "Loading...",
+  "error": "Error: {message}",
+  "@error": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "saveScore": "Save Score",
+  "scoreSaved": "Score saved successfully!",
+  "latestScores": "Latest Scores",
+  "noScores": "No scores yet. Start playing to see your scores here!",
+  "enabled": "Enabled",
+  "disabled": "Disabled",
+  "soundEffectsEnabled": "Sound effects enabled!",
+  "soundEffectsDisabled": "Sound effects disabled",
+  "vibrationEnabled": "Vibration enabled! (You should feel it)",
+  "vibrationDisabled": "Vibration disabled",
+  "testAudio": "🎵 Test Audio",
+  "testAudioDescription": "Test the application sounds:",
+  "clickSound": "Click Sound",
+  "audioFallbackMessage": "If no audio files are found, system sounds will be used.",
+  "welcomeTitle": "Welcome to Quiz Master",
+  "welcomeSubtitle": "Test your knowledge with thousands of questions across multiple categories",
+  "features": "Features",
+  "multipleCategories": "Multiple Categories",
+  "multipleCategoriesDesc": "Choose from various topics",
+  "difficultyLevels": "Difficulty Levels",
+  "difficultyLevelsDesc": "Easy to hard questions",
+  "timedChallenges": "Timed Challenges",
+  "timedChallengesDesc": "Race against the clock",
+  "scoreTracking": "Score Tracking",
+  "scoreTrackingDesc": "Track your progress",
+  "quizSetup": "Quiz Setup",
+  "customizeYourQuiz": "Customize Your Quiz",
+  "customizeQuizSubtitle": "Choose your preferences to create the perfect quiz experience",
+  "category": "Category",
+  "difficulty": "Difficulty",
+  "numberOfQuestions": "Number of Questions",
+  "timeLimit": "Time Limit",
+  "selectCategory": "Select Category",
+  "selectDifficulty": "Select Difficulty",
+  "quizSummary": "Quiz Summary",
+  "questions": "Questions",
+  "loadingQuestions": "Loading questions...",
+  "errorLoadingCategories": "Error loading categories: {error}",
+  "@errorLoadingCategories": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "noQuestionsFound": "No questions found",
+  "noQuestionsAvailable": "No questions available",
+  "quizResults": "Quiz Results",
+  "excellent": "Excellent! 🏆",
+  "greatJob": "Great Job! 🌟",
+  "goodWork": "Good Work! 👍",
+  "notBad": "Not Bad! 📚",
+  "keepPracticing": "Keep Practicing! 💪",
+  "outOfCorrect": "{score} out of {total} correct",
+  "@outOfCorrect": {
+    "placeholders": {
+      "score": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "totalTime": "Total Time",
+  "avgTime": "Avg Time",
+  "fastest": "Fastest",
+  "timeSaved": "Time Saved",
+  "questionBreakdown": "Question Breakdown",
+  "question": "Question",
+  "yourAnswer": "Your Answer:",
+  "correctAnswer": "Correct Answer:",
+  "scoreSaved": "Score Saved!",
+  "playAgain": "Play Again",
+  "viewHighScores": "View High Scores",
+
+  "userProfile": "User Profile",
+  "signedInAs": "Signed in as",
+  "guestUser": "Guest User",
+  "anonymousUser": "Anonymous User",
+  "signOut": "Sign Out",
+  "signIn": "Sign In",
+  "confirmSignOut": "Confirm Sign Out",
+  "signOutMessage": "Are you sure you want to sign out?",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "signOutSuccess": "Successfully signed out",
+  "accountSettings": "Account Settings",
+  "profileInformation": "Profile Information",
+  "email": "Email",
+  "displayName": "Display Name",
+  "memberSince": "Member Since",
+  "lastLogin": "Last Login",
+  "notSignedIn": "Not Signed In",
+  "signInToSaveProgress": "Sign in to save your progress and access all features"
+}
