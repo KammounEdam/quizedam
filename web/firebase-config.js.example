@@ -2,13 +2,13 @@
 // Replace this with your actual Firebase config from Firebase Console
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBySUpCbpmiSbTNiEIVLAu70LlQJH-nkKY",
-  authDomain: "quiz-app-flutter-a070b.firebaseapp.com",
-  projectId: "quiz-app-flutter-a070b",
-  storageBucket: "quiz-app-flutter-a070b.firebasestorage.app",
-  messagingSenderId: "921013274197",
-  appId: "1:921013274197:web:33acd3f801cfb223a136dc",
-  measurementId: "G-DGFDVQ53RQ"
+  apiKey: "YOUR_API_KEY_HERE",
+  authDomain: "your-project-id.firebaseapp.com",
+  projectId: "your-project-id",
+  storageBucket: "your-project-id.firebasestorage.app",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID",
+  measurementId: "YOUR_MEASUREMENT_ID"
 };
 
 // Initialize Firebase
